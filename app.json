@@ -1,0 +1,29 @@
+{
+    "expo": {
+      "name": "cp5-mobile",
+      "slug": "cp5-mobile",
+      "platforms": ["ios", "android", "web"],
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/icon.png",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "ios": {
+        "bundleIdentifier": "com.yourname.cp5mobile",
+        "supportsTablet": true
+      },
+      "android": {
+        "package": "com.yourname.cp5mobile"
+      },
+      "web": {
+        "favicon": "./assets/favicon.png"
+      },
+      "scheme": "aihelper",
+      "jsEngine": "hermes",
+      "newArchEnabled": true
+    }
+  }
+  
