@@ -22,6 +22,11 @@ Aplicativo desenvolvido em React Native com Expo Router para controle de estoque
 
 ---
 
+## 📦 APK para instalação
+ 📥[ Download do APK para Android ](https://expo.dev/accounts/liviamarianalopes/projects/estoque-app/builds/5667d991-619b-4799-9b71-e8ab1584a307 )
+
+---
+
 ## 🧪 Funcionalidades Implementadas
 
 - ✅ Tela com informações das desenvolvedoras
